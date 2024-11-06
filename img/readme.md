@@ -1,1 +1,1 @@
-
+Ordner für Bilder.
