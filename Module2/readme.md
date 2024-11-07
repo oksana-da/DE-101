@@ -7,7 +7,7 @@
 
 ## **Aufgabe 2. 3 Tabellen mit Inhalt erstellen.**
 
-## **Aufgabe 2. Analyse mit SQL Abfragen.**
+## **Aufgabe 3. Analyse mit SQL Abfragen.**
 
       SELECT DISTINCT ship_mode FROM orders AS o;
 
