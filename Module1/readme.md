@@ -1,9 +1,11 @@
-## **Aufgabe 1**
+# Homework
+      Aufgabe 1 ✓
+      Aufgabe 2 ✓
+      Aufgabe 3 ✓
 
-- [X] GitHub Installaton
+## **Aufgabe 1. GutHub Installation**
 
-## **Aufgabe 2**
-- [X] Analytische Lösungsarchitektur (Microsoft Lösungen)
+## **Aufgabe 2. Analytische Lösungsarchitektur (Microsoft Lösungen)**
 
 ``` Source Layer ```
 ``` Storage Layer ```
@@ -18,5 +20,10 @@ Quelle: [Microsoft](https://ms-f1-sites-02-we.azurewebsites.net/en-us/story/1642
 <img src= "https://github.com/oksana-da/DE-101/blob/main/img/102.png" width="520" height="200">
 </p>
 
-## **Aufgabe 3**
-- [ ] Datenanalyse in Excel
+## **Aufgabe 3. Datenanalyse in Excel**
+
+Meine Lösung [hier](https://github.com/oksana-da/DE-101/blob/main/Module1/SolutionSuperStore.xlsx) herunterladen.
+
+<p>
+<img src= "https://github.com/oksana-da/DE-101/blob/main/img/103.png">
+</p>
