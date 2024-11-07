@@ -1,9 +1,9 @@
-# Homework
+# Homework Module1
       Aufgabe 1 ✓
       Aufgabe 2 ✓
       Aufgabe 3 ✓
 
-## **Aufgabe 1. GutHub Installation**
+## **Aufgabe 1. GitHub Installation**
 
 ## **Aufgabe 2. Analytische Lösungsarchitektur (Microsoft Lösungen)**
 
