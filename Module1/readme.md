@@ -3,7 +3,29 @@
       Aufgabe 2 ✓
       Aufgabe 3 ✓
 
-## **Aufgabe 1. GitHub Installation**
+## **Aufgabe 1. GitHub Installation*
+
+###Grundlegende Git-Befehle Git:
+
+      git init
+
+      git clone
+
+      git status
+      git branch
+
+      git pull
+
+      git add
+      git rm
+      git commit
+      git push
+      git reset
+
+      git diff
+      git difftool
+
+      git merge
 
 ## **Aufgabe 2. Analytische Lösungsarchitektur (Microsoft Lösungen)**
 
