@@ -14,7 +14,7 @@ Tabelle [orders](https://github.com/oksana-da/DE-101/blob/main/modul2_sql/orders
 
 Tabelle [returns](https://github.com/oksana-da/DE-101/blob/main/modul2_sql/returns.sql).
 
-<img src= "https://github.com/oksana-da/DE-101/blob/main/img/202.png" width="520" height="330">
+<img src= "https://github.com/oksana-da/DE-101/blob/main/img/202.png">
 </p>
 
 ## **2.3. Analyse mit SQL Abfragen.**
@@ -24,8 +24,9 @@ Tabelle [returns](https://github.com/oksana-da/DE-101/blob/main/modul2_sql/retur
       SELECT count (DISTINCT order_id) AS number_orders
       FROM orders o;
 
-     SELECT ship_mode, count(DISTINCT order_id) AS number_orders FROM orders o
-     GROUP BY ship_mode;
+      SELECT ship_mode, count(DISTINCT order_id) AS
+      number_orders FROM orders o
+      GROUP BY ship_mode;
 
       SELECT city, count (DISTINCT order_id) AS number_orders, sum(sales) AS revenue FROM orders o
       GROUP BY city
@@ -55,5 +56,5 @@ Tabelle [returns](https://github.com/oksana-da/DE-101/blob/main/modul2_sql/retur
       SELECT DATE_TRUNC('day', now());
 
 
-<img src= "https://github.com/oksana-da/DE-101/blob/main/img/201.png" width="520" height="330">
+<img src= "https://github.com/oksana-da/DE-101/blob/main/img/201.png">
 </p>
