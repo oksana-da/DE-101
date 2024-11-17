@@ -1,11 +1,9 @@
-# Homework Module1. Excel, Data Engineering Grundlagen
-      Aufgabe 1 ✓
-      Aufgabe 2 ✓
-      Aufgabe 3 ✓
+# Module1. Excel, Data Engineering Grundlagen
 
-## **Aufgabe 1. GitHub Installation*
+## **Aufgabe 1. GitHub Installation**
+Ich habe GitHub und Visual Studio Code installiert. Arbeite mit VSC.
 
-###Grundlegende Git-Befehle Git:
+###Grundlegende Git-Befehle:
 
       git init
 
@@ -44,7 +42,7 @@ Quelle: [Microsoft](https://ms-f1-sites-02-we.azurewebsites.net/en-us/story/1642
 
 ## **Aufgabe 3. Datenanalyse in Excel**
 
-Meine Lösung [hier](https://github.com/oksana-da/DE-101/blob/main/Module1/SolutionSuperStore.xlsx) herunterladen.
+Datenanalyse in Excel [hier](https://github.com/oksana-da/DE-101/blob/main/Module1/SolutionSuperStore.xlsx).
 
 <p>
 <img src= "https://github.com/oksana-da/DE-101/blob/main/img/103.png">

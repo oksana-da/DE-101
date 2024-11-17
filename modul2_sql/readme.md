@@ -1,11 +1,16 @@
-# Homework Module2. SQL
-      Aufgabe 1 ✓
-      Aufgabe 2 ✓
-      Aufgabe 3 ✓
+# Modul 2. SQL
 
-## **Aufgabe 1. PostgreSQL, pgAdmin4 Installation.**
+## **Aufgabe 1. PostgreSQL Installation.**
+
+Пользуюсь pgAdmin4.
 
 ## **Aufgabe 2. 3 Tabellen mit Inhalt erstellen.**
+
+Tabelle people
+
+Tabelle orders
+
+Tabelle returns
 
 ## **Aufgabe 3. Analyse mit SQL Abfragen.**
 
