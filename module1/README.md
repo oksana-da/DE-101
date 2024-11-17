@@ -32,7 +32,7 @@ Quelle: [Microsoft](https://ms-f1-sites-02-we.azurewebsites.net/en-us/story/1642
 
 ### Datenanalyse in Excel und Dashboard
 
-Datenanalyse in Excel [hier](https://github.com/oksana-da/DE-101/blob/main/modul1_excel/SolutionSuperStore.xlsx).
+Datenanalyse in Excel [hier](https://github.com/oksana-da/DE-101/blob/main/module1/SolutionSuperStore.xlsx).
 
 <p>
 <img src= "https://github.com/oksana-da/DE-101/blob/main/module1/103.png">
