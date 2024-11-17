@@ -1,10 +1,12 @@
-# Modul 2. SQL
+# 2. SQL
 
-## **2.1. PostgreSQL Installation.**
+### PostgreSQL Installation.
 
 Benutze pgAdmin4.
 
-## **2.2. Tabellen mit Inhalt erstellen.**
+---
+
+### Tabellen mit Inhalt erstellen.
 
 SQL Skripts:
 
@@ -17,7 +19,9 @@ Tabelle [returns](https://github.com/oksana-da/DE-101/blob/main/modul2_sql/retur
 <img src= "https://github.com/oksana-da/DE-101/blob/main/img/202.png">
 </p>
 
-## **2.3. Analyse mit SQL Abfragen.**
+---
+
+### Analyse mit SQL Abfragen.
 
       SELECT DISTINCT ship_mode FROM orders AS o;
 
