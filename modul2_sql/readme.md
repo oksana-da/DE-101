@@ -1,18 +1,23 @@
 # Modul 2. SQL
 
-## **Aufgabe 1. PostgreSQL Installation.**
+## **2.1. PostgreSQL Installation.**
 
-Пользуюсь pgAdmin4.
+Benutze pgAdmin4.
 
-## **Aufgabe 2. 3 Tabellen mit Inhalt erstellen.**
+## **2.2. Tabellen mit Inhalt erstellen.**
 
-Tabelle people
+SQL Skripts:
 
-Tabelle orders
+Tabelle [people](https://github.com/oksana-da/DE-101/blob/main/modul2_sql/people.sql).
 
-Tabelle returns
+Tabelle [orders](https://github.com/oksana-da/DE-101/blob/main/modul2_sql/orders.sql).
 
-## **Aufgabe 3. Analyse mit SQL Abfragen.**
+Tabelle [returns](https://github.com/oksana-da/DE-101/blob/main/modul2_sql/returns.sql).
+
+<img src= "https://github.com/oksana-da/DE-101/blob/main/img/202.png" width="520" height="330">
+</p>
+
+## **2.3. Analyse mit SQL Abfragen.**
 
       SELECT DISTINCT ship_mode FROM orders AS o;
 
@@ -48,3 +53,7 @@ Tabelle returns
       
       SELECT now(); --timestamp
       SELECT DATE_TRUNC('day', now());
+
+
+<img src= "https://github.com/oksana-da/DE-101/blob/main/img/201.png" width="520" height="330">
+</p>
