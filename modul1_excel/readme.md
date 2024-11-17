@@ -1,31 +1,19 @@
 # Module1. Excel, Data Engineering Grundlagen
 
-## **1.1. GitHub Installation**
+### GitHub Installation
 Ich habe GitHub und Visual Studio Code installiert. Arbeite mit VSC.
 
-###Grundlegende Git-Befehle:
+      Grundlegende Git-Befehle:
 
       git init
-
       git clone
-
-      git status
-      git branch
-
+      git status, git branch
       git pull
-
-      git add
-      git rm
-      git commit
-      git push
-      git reset
-
-      git diff
-      git difftool
-
+      git add, git rm, git commit, git push, git reset
+      git diff, git difftool
       git merge
-
-## **1.2. Analytische Lösungsarchitektur (Microsoft Lösungen)**
+---
+### Analytische Lösungsarchitektur (Microsoft Lösungen)
 
 ``` Source Layer ```
 ``` Storage Layer ```
@@ -40,7 +28,9 @@ Quelle: [Microsoft](https://ms-f1-sites-02-we.azurewebsites.net/en-us/story/1642
 <img src= "https://github.com/oksana-da/DE-101/blob/main/img/102.png" width="520" height="200">
 </p>
 
-## **1.3. Datenanalyse in Excel**
+---
+
+### Datenanalyse in Excel und Dashboard
 
 Datenanalyse in Excel [hier](https://github.com/oksana-da/DE-101/blob/main/modul1_excel/SolutionSuperStore.xlsx).
 
