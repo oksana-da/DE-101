@@ -1,4 +1,4 @@
-# Module1. Excel, Data Engineering Grundlagen
+# 1. Excel, Data Engineering Grundlagen
 
 ### GitHub Installation
 Ich habe GitHub und Visual Studio Code installiert. Arbeite mit VSC.
