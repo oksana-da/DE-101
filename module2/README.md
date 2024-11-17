@@ -10,13 +10,11 @@ Benutze pgAdmin4.
 
 SQL Skripts:
 
-Tabelle [people](https://github.com/oksana-da/DE-101/blob/main/modul2_sql/people.sql).
+- [Tabelle people](https://github.com/oksana-da/DE-101/blob/main/module2/people.sql)
+- [Tabelle orders](https://github.com/oksana-da/DE-101/blob/main/module2/orders.sql)
+- [Tabelle returns](https://github.com/oksana-da/DE-101/blob/main/module2/returns.sql)
 
-Tabelle [orders](https://github.com/oksana-da/DE-101/blob/main/modul2_sql/orders.sql).
-
-Tabelle [returns](https://github.com/oksana-da/DE-101/blob/main/modul2_sql/returns.sql).
-
-<img src= "https://github.com/oksana-da/DE-101/blob/main/img/202.png">
+<img src= "https://github.com/oksana-da/DE-101/blob/main/module2/202.png">
 </p>
 
 ---
@@ -60,5 +58,5 @@ Tabelle [returns](https://github.com/oksana-da/DE-101/blob/main/modul2_sql/retur
       SELECT DATE_TRUNC('day', now());
 
 
-<img src= "https://github.com/oksana-da/DE-101/blob/main/img/201.png">
+<img src= "https://github.com/oksana-da/DE-101/blob/main/module2/201.png">
 </p>
