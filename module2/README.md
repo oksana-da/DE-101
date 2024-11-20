@@ -60,3 +60,20 @@ SQL Skripts:
 
 <img src= "https://github.com/oksana-da/DE-101/blob/main/module2/201.png">
 </p>
+
+---
+
+### Datenmodelierung
+
+Datenbankmodelle:
+Entity-Relationship-Diagramme ERD
+Objekt Role Modeling ORM
+
+
+<img src= "https://github.com/oksana-da/DE-101/blob/main/module2/203_erp_modell.png">
+</p>
+
+
+
+<img src= "https://github.com/oksana-da/DE-101/blob/main/module2/204_db_modell.png">
+</p>
