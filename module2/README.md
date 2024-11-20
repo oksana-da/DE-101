@@ -65,15 +65,12 @@ SQL Skripts:
 
 ### Datenmodelierung
 
-Datenbankmodelle:
-Entity-Relationship-Diagramme ERD
-Objekt Role Modeling ORM
+Ich habe Dataset normalisiert, mit Hilfe von Forward Engineer SQL-Skript generiert und Tabelle erstellt.
 
-
+ER-Diagramm in draw.io:
 <img src= "https://github.com/oksana-da/DE-101/blob/main/module2/203_erp_modell.png">
 </p>
 
-
-
+Physisches Datenmodell in sqldbm:
 <img src= "https://github.com/oksana-da/DE-101/blob/main/module2/204_db_modell.png">
 </p>
